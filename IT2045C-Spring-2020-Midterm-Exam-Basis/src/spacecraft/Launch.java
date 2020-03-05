@@ -1,7 +1,10 @@
 /*
- * IT2045C Spring 2020 Midterm Exam Basis
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * Mark Long
+ * long3md@mail.uc.edu
+ * IT2045C
+ * Midterm Test Part 2
+ * 03/05/2020
+ * Have a great day professor!
  */
 package spacecraft;
 
